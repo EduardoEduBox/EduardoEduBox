@@ -10,7 +10,7 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48"/> 
@@ -22,7 +22,7 @@
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48"/>
@@ -34,57 +34,78 @@
 
 ---
 
-### 🔥 Featured Projects
+## 🔥 Featured Projects
 
-<table>
-  <tr>
-    <td>
-      <img src="images/rithual_reader.png" width="100%" alt="Rithual Reader" />
-    </td>
-    <td>
-      <b>🔗 <a href="https://github.com/EduardoEduBox/Rithual_Reader_Next">Rithual Reader</a></b><br/>
+<table> 
+  <tr> 
+    <td width="30%"> 
+      <p align="center">
+        <img src="images/logo_rithual_round.png" width="60%" alt="Rithual Reader" />
+      </p>
+    </td> 
+    <td> 
+      <h3>🔗 <a href="https://github.com/EduardoEduBox/Rithual_Reader_Next">Rithual Reader</a></h3>
       A manga reading platform built with Next.js. Includes clean UI, chapter navigation, and typescript-powered routing.
-    </td>
+    </td> 
   </tr>
+
   <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td>
-      <img src="images/rithual_wiki.png" width="100%" alt="Rithual Wiki" />
-    </td>
-    <td>
-      <b>📚 <a href="https://github.com/EduardoEduBox/Rithual_Wiki_React">Rithual Wiki</a></b><br/>
-      A React-based wiki for the worldbuilding behind my manga. Features search, expandable entries, and lore architecture.
-    </td>
+
+  <tr> 
+    <td width="30%"> 
+      <p align="center">
+        <img src="images/logo_rithual_round.png" width="60%" alt="Rithual Wiki" />
+      </p>
+    </td> 
+    <td> 
+      <h3>📚 <a href="https://github.com/EduardoEduBox/Rithual_Wiki_React">Rithual Wiki</a></h3>
+      A React-based wiki for the worldbuilding behind my manga. Features search, expandable entries, and lore architecture.<br/>
+      🔗 <a href="https://rithual-wiki.com.br/" target="_blank">Visit Site</a>
+    </td> 
   </tr>
+
   <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td>
-      <img src="images/prosa_de_mestre.png" width="100%" alt="Prosa de Mestre" />
-    </td>
-    <td>
-      <b>🎙️ <a href="https://github.com/EduardoEduBox/Prosa_de_Mestre_React">Prosa de Mestre</a></b><br/>
-      Official site for a Brazilian repentista podcast, styled with TailwindCSS and built for responsiveness.
-    </td>
+
+  <tr> 
+    <td width="30%"> 
+      <img src="images/logoProsa.png" width="100%" alt="Prosa de Mestre" />
+    </td> 
+    <td> 
+      <h3>🎙️ <a href="https://github.com/EduardoEduBox/Prosa_de_Mestre_React">Prosa de Mestre</a></h3>
+      Official site for a Brazilian repentista podcast, styled with TailwindCSS and built for responsiveness.<br/>
+      🔗 <a href="https://prosademestre.com.br/" target="_blank">Visit Site</a>
+    </td> 
+  </tr>
+
+  <tr><td colspan="2"><br/></td></tr>
+
+  <tr> 
+    <td width="30%"> 
+      <p align="center">
+        <img src="images/pracaIcone.png" width="75%" alt="Praça Dominó" />
+      </p>
+    </td> 
+    <td> 
+      <h3>🃏 Praça Dominó <span style="color:grey;">(Private Project)</span></h3>
+      An online multiplayer domino game with a betting system. Built with real-time interactions in mind.<br/>
+      <i>Currently in private development — soon to be available for testing and play!</i> 
+    </td> 
   </tr>
 </table>
 
----
-
-### 📊 GitHub Activity & Trophies
+## 📊 GitHub Activity & Trophies
 
 <table align="center">
   <tr>
-    <td align="center" colspan="3">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoEduBox&layout=compact&theme=tokyonight&langs_count=6" width="600"/>
+    <td align="center" width="37%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoEduBox&layout=compact&theme=tokyonight&langs_count=6" width="100%"/>
     </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
+    <td align="center" width="63%">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoEduBox&theme=tokyo-night" width="100%"/>
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="3">
+    <td align="center" colspan="2">
       <img src="https://github-profile-trophy.vercel.app/?username=EduardoEduBox&theme=tokyonight&no-frame=true&column=7" />
     </td>
   </tr>
@@ -93,8 +114,18 @@
 ---
 
 
-## 🎯 Let's Connect
+## 🎯 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-barbosa-dos-santos-73b74b2b3/)
-
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/eduardo-barbosa-dos-santos-73b74b2b3/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/eduardobarbosacad/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:eduardotrabalhos2005@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="48" />
+  </a>
+</p>
